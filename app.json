@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "frankcalise.dev",
-    "slug": "frankcalise.dev",
+    "slug": "frankcalise-dev",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -37,6 +37,12 @@
     ],
     "experiments": {
       "typedRoutes": true
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "c611bdc9-a767-4c8f-b896-09d421acad42"
+      }
     }
   }
 }
